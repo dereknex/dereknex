@@ -1,7 +1,2 @@
-### Hello, I'm Derek
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
