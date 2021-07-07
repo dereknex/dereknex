@@ -18,6 +18,7 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.10
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
