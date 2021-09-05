@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@v3.10
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          template: terminal
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year
           plugin_languages: yes
