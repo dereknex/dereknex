@@ -1,2 +1,2 @@
-![Metrics](https://github.com/dereknex/dereknex/blob/main/github-metrics.svg)
+![Metrics](./profile-3d-contrib/profile-green-animate.svg)
 
